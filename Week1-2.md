@@ -1,11 +1,11 @@
 Week1-2 학습정리
 ==
-* 강의 복습 내용
---
-# 1. Variables
+## 강의 복습 내용
+
+#### 1. Variables
 >스킵
 
-# 2. Function and Console I/O
+#### 2. Function and Console I/O
 
 텍스트 포매팅
 
@@ -25,7 +25,7 @@ f-string
 >* 기존변수 선언후
 >* print(f”~~{기존변수명:*^20}~~})	:	가운대 정렬, 공백 *로 채움, 20칸 할당 
 
-# 3. Conditionals and Loops
+#### 3. Conditionals and Loops
 
 - is 연산( a is b )
     - 메모리의 주소를 비교
@@ -46,7 +46,7 @@ f-string
 	- 메인인지 체크
 
 
-# 4. String and advanced function concept
+#### 4. String and advanced function concept
 
 - 텍스트 슬라이싱
     - a[시작값: 끝나는 값: 스텝]
@@ -56,13 +56,11 @@ f-string
     - r”~~\~~”
         - 역슬래쉬를 인식안함
 
-* 피어세션 정리
----
+## 피어세션 정리
 - 조에 늦게합류하여 자기소개
 - 과제 궁금한 점 질답
 - 아이스브레이킹
 
-* 과제
----
+## 과제
   모두 제출 완료
   baseball 과제에서 빠트린 조건을 조원분이 지적해주심
